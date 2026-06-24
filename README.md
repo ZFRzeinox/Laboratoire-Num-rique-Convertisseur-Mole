@@ -1,4 +1,4 @@
-# Laboratoire Numérique Convertisseur & Mole
+# Laboratoire Numérique
 
 Un programme Python interactif conçu pour aider en laboratoire à convertir des volumes et calculer des quantités de matière (moles) rapidement en TP.
 
